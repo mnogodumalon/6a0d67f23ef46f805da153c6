@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "forms": [
+    {
+      "entity": "testererfassung",
+      "app_id": "6a0d67e1b854d612476be8fe",
+      "path": "/rest/apps/6a0d67e1b854d612476be8fe/records",
+      "allowed_fields": [
+        "vorname",
+        "nachname",
+        "email",
+        "telefon",
+        "geburtsdatum",
+        "kategorie",
+        "bemerkungen"
+      ],
+      "pow": true,
+      "pow_difficulty": 50000,
+      "title": "Testererfassung — Form"
+    }
+  ]
+}

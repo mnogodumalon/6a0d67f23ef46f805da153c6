@@ -1,0 +1,1 @@
+- Testererfassung (testererfassung): vorname[string/text], nachname[string/text], email[string/email], telefon[string/tel], geburtsdatum[date/date], kategorie[lookup/select], bemerkungen[string/textarea]
